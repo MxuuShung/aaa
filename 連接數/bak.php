@@ -1,10 +1,6 @@
 <!--PDO物件名稱 = new PDO("mysql:host = MYSQL伺服器位址; dbname = 資料庫名稱; charet = 預設字元集編碼", 帳號 , 密碼)try{}catch{//發生錯誤時執行}
 //資料庫主機-->
 <?php/*
-$db_host = "127.0.0.1";
-$db_name = "maxgear";
-$db_username = "admin";
-$db_password = "111111";
 //錯誤時處理
 try{
     //物件名稱           語法       伺服器位址     語法     資料庫      預設字元編碼        帳號            密碼
